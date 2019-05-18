@@ -112,4 +112,9 @@
       <Filter>Ressourcendateien</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\double_num\double_num\Numbers.txt">
+      <Filter>Ressourcendateien</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
